@@ -1,2 +1,2 @@
 # wpbrute
-./Unn0rmal kntl
+Wordpress brute force using bash
